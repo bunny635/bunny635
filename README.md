@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:00140a,65:00351d,100:000000&height=240&section=header&text=SMIT%20GHOGHARI&fontSize=54&fontColor=00FF41&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20DIGITAL%20ARCHITECT&descSize=17&descAlignY=57&descColor=7CFF9B](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:00140a,65:00351d,100:000000&height=240&section=header&text=SMIT%20GHOGHARI&fontSize=54&fontColor=00FF41&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20DIGITAL%20ARCHITECT&descSize=17&descAlignY=57&descColor=7CFF9B)" width="100%"/>
+<div align="center">
 
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1800&pause=650&color=00FF41&center=true&vCenter=true&width=900&lines=%5B+BOOTING+SMIT_OS...+%5D;%3E+ACCESS_GRANTED;%3E+IDENTITY_VERIFIED;%3E+LOADING+DEVELOPER+PROFILE...;%3E+REACT+%2B+NODE+%2B+MONGODB;%3E+3D+WORLD+ONLINE;%3E+SYSTEM_STATUS%3A+OPERATIONAL](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1800&pause=650&color=00FF41&center=true&vCenter=true&width=900&lines=%5B+BOOTING+SMIT_OS...+%5D;%3E+ACCESS_GRANTED;%3E+IDENTITY_VERIFIED;%3E+LOADING+DEVELOPER+PROFILE...;%3E+REACT+%2B+NODE+%2B+MONGODB;%3E+3D+WORLD+ONLINE;%3E+SYSTEM_STATUS%3A+OPERATIONAL)" alt="Terminal animation"/>
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:00140a,65:00351d,100:000000&height=240&section=header&text=SMIT%20GHOGHARI&fontSize=54&fontColor=00FF41&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20DIGITAL%20ARCHITECT&descSize=17&descAlignY=57&descColor=7CFF9B)
+
+![Terminal animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1800&pause=650&color=00FF41&center=true&vCenter=true&width=900&lines=%5B+BOOTING+SMIT_OS...+%5D;%3E+ACCESS_GRANTED;%3E+IDENTITY_VERIFIED;%3E+LOADING+DEVELOPER+PROFILE...;%3E+REACT+%2B+NODE+%2B+MONGODB;%3E+3D+WORLD+ONLINE;%3E+SYSTEM_STATUS%3A+OPERATIONAL)
 
 <br/>
 
-<img src="[https://img.shields.io/badge/SYSTEM-ONLINE-050505?style=for-the-badge&logo=gnubash&logoColor=00FF41&labelColor=000000](https://img.shields.io/badge/SYSTEM-ONLINE-050505?style=for-the-badge&logo=gnubash&logoColor=00FF41&labelColor=000000)"/>
-<img src="[https://img.shields.io/badge/MODE-BUILDING-050505?style=for-the-badge&logo=codeforces&logoColor=00FF41&labelColor=000000](https://img.shields.io/badge/MODE-BUILDING-050505?style=for-the-badge&logo=codeforces&logoColor=00FF41&labelColor=000000)"/>
-<img src="[https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-050505?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000](https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-050505?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)"/>
+![System Online](https://img.shields.io/badge/SYSTEM-ONLINE-050505?style=for-the-badge&logo=gnubash&logoColor=00FF41&labelColor=000000)
+![Mode Building](https://img.shields.io/badge/MODE-BUILDING-050505?style=for-the-badge&logo=codeforces&logoColor=00FF41&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-050505?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)
 
 <br/><br/>
 
-<img src="[https://komarev.com/ghpvc/?username=bunny635&style=for-the-badge&color=00ff41&label=PROFILE+SCANS](https://komarev.com/ghpvc/?username=bunny635&style=for-the-badge&color=00ff41&label=PROFILE+SCANS)" alt="Profile views"/>
+![Profile views](https://komarev.com/ghpvc/?username=bunny635&style=for-the-badge&color=00ff41&label=PROFILE+SCANS)
 
 </div>
 
