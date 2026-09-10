@@ -1,164 +1,305 @@
-⚡ SMIT GHOGHARI // DIGITAL OPERATIVE
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00FF41&center=true&vCenter=true&width=850&lines=%3E+ACCESS_GRANTED;%3E+SMIT_GHOGHARI;%3E+FULL_STACK_WEB_DEVELOPER;%3E+BUILDING+THE+NEXT+DIGITAL+WORLD;%3E+SYSTEM_STATUS%3A+ONLINE" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:00140a,65:00351d,100:000000&height=240&section=header&text=SMIT%20GHOGHARI&fontSize=54&fontColor=00FF41&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20DIGITAL%20ARCHITECT&descSize=17&descAlignY=57&descColor=7CFF9B" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1800&pause=650&color=00FF41&center=true&vCenter=true&width=900&lines=%5B+BOOTING+SMIT_OS...+%5D;%3E+ACCESS_GRANTED;%3E+IDENTITY_VERIFIED;%3E+LOADING+DEVELOPER+PROFILE...;%3E+REACT+%2B+NODE+%2B+MONGODB;%3E+3D+WORLD+ONLINE;%3E+SYSTEM_STATUS%3A+OPERATIONAL" alt="Terminal animation"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-050505?style=for-the-badge&logo=gnubash&logoColor=00FF41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-050505?style=for-the-badge&logo=codeforces&logoColor=00FF41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-050505?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bunny635&style=for-the-badge&color=00ff41&label=PROFILE+SCANS" alt="Profile views"/>
+
+</div>
+
+root@smit:~$ whoami
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         // SECURE IDENTITY TERMINAL //                       ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  OPERATOR       : SMIT GHOGHARI                                              ║
+║  HANDLE         : @bunny635                                                   ║
+║  CLASS          : FULL STACK WEB DEVELOPER                                   ║
+║  EDUCATION      : BCA                                                        ║
+║  REGION         : INDIA                                                      ║
+║  SYSTEM         : SMIT_OS                                                     ║
+║  STATUS         : ONLINE                                                     ║
+║                                                                              ║
+║  PRIMARY STACK  : React.js / Node.js / Express.js / MongoDB                  ║
+║  SPECIALIZATION : Web Apps / 3D Web / UI Engineering / APIs                 ║
+║                                                                              ║
+║  CURRENT OBJECTIVE:                                                          ║
+║  └── Build useful software and turn ambitious ideas into working systems.    ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+I build software, experiment with interfaces, and keep pushing the system further.
+
+01 // SYSTEM_PROFILE
+
+$ ./load_profile.sh
+
+[██████████████████████████████████████████████████] 100%
+
+> identity......... verified
+> frontend......... online
+> backend.......... online
+> database......... connected
+> 3d-engine........ online
+> api-layer........ online
+> learning-mode.... enabled
+> build-mode....... enabled
+
+I’m a BCA student and full-stack web developer focused on building modern applications, immersive interfaces, backend systems, and experimental digital experiences.
+
+My workflow is simple:
+
+IDEA
+  ↓
+ARCHITECTURE
+  ↓
+CODE
+  ↓
+DEBUG
+  ↓
+REFACTOR
+  ↓
+SHIP
+
+02 // TECH_STACK
+
+LANGUAGES
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,cs&theme=dark"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b0f0c,100:001a09&height=180&section=header&text=SMIT%20GHOGHARI&fontColor=00FF41&fontSize=42&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20EXPLORE&descAlignY=62&descColor=8aff9c" width="100%"/>
+FRONTEND SYSTEMS
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind&theme=dark"/>
 </p>
 
-┌──[ SMIT@GITHUB ]──[ ~/profile ]────────────────────────────────────────┐
-│                                                                        │
-│  USER        : SMIT GHOGHARI                                          │
-│  ROLE        : FULL STACK WEB DEVELOPER                               │
-│  EDUCATION   : BCA                                                     │
-│  STATUS      : OPEN FOR INTERNSHIPS                                   │
-│  LOCATION    : INDIA                                                  │
-│                                                                        │
-│  $ ./boot_profile.sh                                                  │
-│  [████████████████████████████████████████████████████] 100%          │
-│                                                                        │
-│  SYSTEM STATUS : ONLINE                                                │
-│  CURRENT MODE  : BUILDING                                              │
-│  NEXT TARGET   : SHIP BETTER SOFTWARE                                  │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
+BACKEND + DATA
 
-01 // ABOUT_ME
-
-I’m a BCA student and full-stack web developer focused on building modern web applications, immersive interfaces, and experimental digital experiences.
-
-I enjoy turning ideas into complete products, from frontend architecture and UI systems to backend APIs, databases, authentication, and deployment-ready code.
-
-$ whoami
-smit-ghoghari
-
-$ mission
-"Build useful software with strong engineering and memorable interfaces."
-
-$ current_focus
-React.js + Node.js + Express.js + MongoDB + 3D Web
-
-$ mindset
-learn → build → break → debug → improve → ship
-
-02 // TECH_ARSENAL
-
-Languages
-
-
-
-
-
-
-Frontend
-
-
-
-
-
-
-Backend & Database
-
-
-
-
-
-Tools
-
-
-
-
-
-3D / Creative Web
-
-
-
-
-
-03 // FEATURED_PROJECTS
-
-01 — SMIT QUEST // THE DIGITAL ODYSSEY
-
-A game-like 3D portfolio experience built as an interactive digital world.
-
-Stack: React + Vite + Tailwind CSS + Zustand + React Three Fiber + Rapier + GSAP + Express + MongoDB
-
-Core systems:
-3D World Hub Quest System Skill Mountain Origin Tower Archive Vault Forbidden Lab Admin API JWT Authentication
-
-🔗 Repository: SMIT QUEST
-
-02 — QUICKGO // HOME SERVICE MANAGEMENT
-
-A full-stack home service platform connecting customers, service providers, and administrators.
-
-Stack: React + Vite + Bootstrap + Node.js + Express.js + MongoDB
-
-Core systems:
-Authentication RBAC Service Booking Provider Management Payments Invoices Reviews Admin Dashboard
-
-🔗 Repository: QuickGo
-
-04 // CURRENT_MISSION
-
-[ ACTIVE MISSION ]
-
-→ Build production-quality full-stack applications
-→ Improve backend architecture and API design
-→ Create immersive 3D web experiences
-→ Strengthen authentication and application security
-→ Prepare for web development internships
-
-05 // GITHUB_ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bunny635&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF41&text_color=8aff9c&icon_color=00FF41" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunny635&layout=compact&hide_border=true&bg_color=050505&title_color=00FF41&text_color=8aff9c" height="170"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bunny635&hide_border=true&background=050505&ring=00FF41&fire=FF3B30&currStreakLabel=00FF41&sideLabels=8aff9c&dates=8aff9c" width="70%"/>
+3D + CREATIVE ENGINE
+
+<p>
+<img src="https://skillicons.dev/icons?i=threejs,blender&theme=dark"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bunny635&theme=matrix&no-frame=true&no-bg=true&margin-w=10" width="90%"/>
+DEVELOPER TOOLS
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 </p>
 
-06 // TERMINAL_LOG
+03 // CAPABILITY_MATRIX
 
-[2026] :: Building SMIT QUEST
-[2026] :: Developing QuickGo
-[2026] :: Learning deeper backend architecture
-[2026] :: Exploring 3D interfaces and creative web development
-[2026] :: Searching for opportunities to learn, build and contribute
+┌──────────────────────────┬─────────────────────────────────────────────┐
+│ MODULE                   │ STATUS                                      │
+├──────────────────────────┼─────────────────────────────────────────────┤
+│ HTML / CSS               │ ████████████████████████████████████ 100% │
+│ JavaScript               │ █████████████████████████████████░░  92% │
+│ React.js                 │ ████████████████████████████████░░░  88% │
+│ Node.js / Express        │ ██████████████████████████████░░░░  82% │
+│ MongoDB                  │ █████████████████████████████░░░░░  78% │
+│ REST APIs                │ ██████████████████████████████░░░░  82% │
+│ Authentication / RBAC    │ ████████████████████████████░░░░░  75% │
+│ 3D Web                   │ █████████████████████████░░░░░░░░  68% │
+│ GSAP / Motion             │ █████████████████████████░░░░░░░░  68% │
+│ Git / GitHub             │ ████████████████████████████████░░  85% │
+└──────────────────────────┴─────────────────────────────────────────────┘
 
-07 // CONNECT
+04 // PROJECT_DATABASE
 
-<p align="center">
-  <a href="https://github.com/bunny635">
-    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF41"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
-  </a>
-</p>
+PROJECT_001 :: SMIT QUEST
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bunny635&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    SMIT QUEST // THE DIGITAL ODYSSEY                         ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║ TYPE       : Interactive 3D Developer Portfolio                              ║
+║ STATUS     : ACTIVE DEVELOPMENT                                              ║
+║ FRONTEND   : React + Vite + Tailwind                                         ║
+║ 3D         : React Three Fiber + Rapier                                      ║
+║ MOTION     : GSAP                                                           ║
+║ STATE      : Zustand                                                        ║
+║ BACKEND    : Express + MongoDB                                               ║
+║ SECURITY   : JWT + Backend-authoritative authentication                       ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│  > CONNECTION ESTABLISHED                                              │
-│  > USER ONLINE                                                         │
-│  > KEEP BUILDING                                                       │
-│                                                                        │
-│                         [ END OF FILE ]                                │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
+A game-like portfolio where visitors explore a digital world instead of reading a conventional portfolio.
 
-<p align="center">
-  <sub>Designed as a cyber-terminal developer profile. Built with Markdown, SVG services and GitHub.</sub>
-</p>
+WORLD HUB
+ ├── PROJECT QUESTS
+ ├── SKILL MOUNTAIN
+ ├── ORIGIN TOWER
+ ├── FORBIDDEN LAB
+ ├── MEMORY VALLEY
+ ├── ARCHIVE VAULT
+ └── ADMIN SYSTEM
+
+Repository: SMIT QUEST
+
+PROJECT_002 :: QUICKGO
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                              QUICKGO                                          ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║ TYPE       : Home Service Management System                                  ║
+║ STATUS     : ACTIVE DEVELOPMENT                                              ║
+║ FRONTEND   : React + Vite + Bootstrap                                        ║
+║ BACKEND    : Node.js + Express                                               ║
+║ DATABASE   : MongoDB                                                         ║
+║ MODULES    : Customer / Provider / Admin                                     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+A full-stack platform for discovering, booking, and managing home services.
+
+AUTH
+ ├── CUSTOMER
+ ├── SERVICE PROVIDER
+ └── ADMIN
+
+SERVICE ENGINE
+ ├── SERVICE DISCOVERY
+ ├── BOOKING
+ ├── PROVIDER MANAGEMENT
+ ├── PAYMENTS
+ ├── INVOICES
+ └── REVIEWS
+
+Repository: QuickGo Home Service
+
+PHP version: QuickGo User PHP
+
+05 // ACTIVE_MISSIONS
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                         MISSION CONTROL                              ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║ [01] BUILD      ████████████████████████████████████████  ACTIVE     ║
+║ [02] LEARN      ████████████████████████████████████████  ACTIVE     ║
+║ [03] DEBUG      ████████████████████████████████████████  ACTIVE     ║
+║ [04] 3D WEB     █████████████████████████████████████░░░  ACTIVE     ║
+║ [05] BACKEND    ████████████████████████████████░░░░░░░  ACTIVE     ║
+║ [06] INTERNSHIP ███████████████████████████░░░░░░░░░░░░  SEARCHING   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+06 // DEVELOPMENT_PROTOCOL
+
+const SMIT_OS = {
+  learn: true,
+  build: true,
+  experiment: true,
+  debug: true,
+  improve: true,
+  ship: true
+};
+
+const run = async () => {
+  while (SMIT_OS.build) {
+    await learn();
+    await create();
+    await experiment();
+    await debug();
+    await improve();
+    await ship();
+  }
+};
+
+run();
+
+07 // GITHUB_CORE
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bunny635&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF41&text_color=8AFF9C&icon_color=00FF41" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunny635&layout=compact&hide_border=true&bg_color=050505&title_color=00FF41&text_color=8AFF9C" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=bunny635&hide_border=true&background=050505&ring=00FF41&fire=FF3131&currStreakLabel=00FF41&sideLabels=8AFF9C&dates=8AFF9C" width="75%"/>
+
+</div>
+
+08 // TROPHY_ROOM
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bunny635&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%"/>
+
+</div>
+
+09 // TERMINAL_LOG
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│                            DEVELOPMENT LOG                                │
+├───────────────────────────────────────────────────────────────────────────┤
+│                                                                           │
+│ [2026] :: SMIT QUEST development                                          │
+│ [2026] :: QuickGo full-stack development                                  │
+│ [2026] :: 3D web experimentation                                          │
+│ [2026] :: Backend API architecture                                        │
+│ [2026] :: Authentication and RBAC systems                                 │
+│ [2026] :: Creative UI / UX engineering                                    │
+│ [2026] :: Internship preparation                                          │
+│                                                                           │
+└───────────────────────────────────────────────────────────────────────────┘
+
+10 // NETWORK_TERMINAL
+
+$ connect --github
+connection established → github.com/bunny635
+
+$ connect --projects
+2 primary systems detected → SMIT QUEST / QUICKGO
+
+$ connect --status
+ONLINE
+
+$ connect --next
+BUILD SOMETHING BETTER
+
+<div align="center">
+
+<a href="https://github.com/bunny635">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+</a>
+
+</div>
+
+<div align="center">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║  > CONNECTION ESTABLISHED                                           ║
+║  > SYSTEM STATUS : ONLINE                                           ║
+║  > DEVELOPER    : ACTIVE                                            ║
+║  > NEXT BUILD   : LOADING                                           ║
+║                                                                      ║
+║       "The terminal closes. The work continues."                    ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:00140a,65:00351d,100:000000&height=140&section=footer" width="100%"/>
+
+<sub>SMIT_OS // Developer Profile // github.com/bunny635</sub>
+
+</div>
